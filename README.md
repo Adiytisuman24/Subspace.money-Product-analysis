@@ -7,16 +7,48 @@
 
 
 
-![Product Score](https://img.shields.io/badge/Product%20Score-82%2F100-brightgreen)
 
-![Screens Analyzed](https://img.shields.io/badge/Screens%20Analyzed-27-blue)
+<div align="center">
 
-![UX Issues](https://img.shields.io/badge/UX%20Issues%20Found-18-orange)
+<table>
+<tr>
+<td align="center" width="250">
 
-![Growth Opportunities](https://img.shields.io/badge/Growth%20Opportunities-12-success)
+### 🏆 Product Analysis
 
-![Revenue Levers](https://img.shields.io/badge/Revenue%20Levers-6-purple)
+# 82
 
-![Network Effects](https://img.shields.io/badge/Network%20Effects-89%25-brightgreen)
+Product Score
 
-![PMF Potential](https://img.shields.io/badge/PMF%20Potential-68%25-yellowgreen)
+Analyzed: 27 Screens
+
+</td>
+
+<td align="center" width="250">
+
+### 🚀 Growth
+
+# 12
+
+Growth Opportunities
+
+PMF: 68%
+
+</td>
+
+<td align="center" width="250">
+
+### 💰 Revenue
+
+# 6
+
+Revenue Levers
+
+Potential: High
+
+</td>
+
+</tr>
+</table>
+
+</div>
