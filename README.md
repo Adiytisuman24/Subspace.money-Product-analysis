@@ -52,3 +52,8 @@ Potential: High
 </table>
 
 </div>
+
+
+<p align="center">
+  <img src="./assets/product-stats.svg"/>
+</p>
